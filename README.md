@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ashy1895
-- 👀 I’m interested in Finance
-- 🌱 I’m currently learning B.E Electronics and Communication Engineering 
-- 💞️ I’m looking to collaborate on Communication related projects
+- 👀 I’m interested in Embedded hardware and software devolopment
+- 🌱 I’m currently pursuing B.E Electronics and Communication Engineering 
 - 📫 You can reach me at ashwathdh1895@gmail.com
 
 <!---
